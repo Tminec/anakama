@@ -29,13 +29,15 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-text-1 {
-    margin-top: 60px;
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 18px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
+    margin-top: 60px;
     margin-left: 0;
   }
 }
