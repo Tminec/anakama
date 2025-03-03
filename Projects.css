@@ -336,7 +336,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1.25rem;
-  margin: 29px auto 0 452px;
+  margin: 22px auto 0;
   padding: 12px 30px 13px;
 }
 
@@ -370,10 +370,6 @@
   .u-section-1 .u-btn-5 {
     margin-left: 243px;
   }
-
-  .u-section-1 .u-btn-8 {
-    margin-left: 252px;
-  }
 }
 
 @media (max-width: 991px) {
@@ -395,10 +391,6 @@
 
   .u-section-1 .u-image-1 {
     margin-left: 194px;
-  }
-
-  .u-section-1 .u-btn-8 {
-    margin-left: 32px;
   }
 }
 
@@ -436,10 +428,6 @@
 
   .u-section-1 .u-image-1 {
     margin-left: 19px;
-  }
-
-  .u-section-1 .u-btn-8 {
-    margin-left: 0;
   }
 }
 
