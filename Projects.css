@@ -8,7 +8,7 @@
 
 .u-section-1 .u-accordion-1 {
   margin-top: 36px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-accordion-link-1 {
@@ -356,6 +356,10 @@
   font-size: 1.25rem;
   margin: 17px auto 0;
   padding: 12px 30px 13px;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 30px auto 60px 0;
 }
 
 @media (max-width: 1199px) {
