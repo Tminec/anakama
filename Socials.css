@@ -59,6 +59,10 @@
   padding: 0;
 }
 
+.u-section-1 .u-text-2 {
+  margin: 11px auto 0 0;
+}
+
 .u-section-1 .u-container-layout-2 {
   padding: 30px;
 }
@@ -150,7 +154,7 @@
   padding: 0;
 }
 
-.u-section-1 .u-text-2 {
+.u-section-1 .u-text-3 {
   font-size: 3.75rem;
   margin: 97px auto 0 0;
 }
@@ -206,7 +210,7 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-3 {
     font-size: 3.125rem;
   }
 }
@@ -216,7 +220,7 @@
     font-size: 2.5rem;
   }
 
-  .u-section-1 .u-text-2 {
+  .u-section-1 .u-text-3 {
     font-size: 2.5rem;
   }
 }
