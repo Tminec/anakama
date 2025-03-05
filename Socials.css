@@ -8,7 +8,7 @@
 }
 
 .u-section-1 .u-tabs-1 {
-  min-height: 136px;
+  min-height: 179px;
   margin-top: 20px;
   margin-bottom: 0;
   height: auto;
@@ -47,7 +47,7 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 15px 30px 0;
+  padding: 15px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -55,7 +55,7 @@
   font-family: "ADLaM Display";
   font-size: 1.875rem;
   border-style: solid;
-  margin: 0 auto 0 0;
+  margin: 0 auto 0 30px;
   padding: 0;
 }
 
@@ -151,13 +151,8 @@
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 0.875rem;
-  margin: 0 auto 0 0;
-}
-
-.u-section-1 .u-text-3 {
   font-size: 3.75rem;
-  margin: 124px auto 0 0;
+  margin: 123px auto 0 0;
 }
 
 .u-section-1 .u-form-1 {
@@ -166,14 +161,15 @@
   height: 415px;
 }
 
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
     font-size: 3.125rem;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 10px;
-    padding-right: 10px;
   }
 
   .u-section-1 .u-container-layout-2 {
@@ -211,7 +207,7 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     font-size: 3.125rem;
   }
 }
@@ -221,7 +217,7 @@
     font-size: 2.5rem;
   }
 
-  .u-section-1 .u-text-3 {
+  .u-section-1 .u-text-2 {
     font-size: 2.5rem;
   }
 }
